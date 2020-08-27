@@ -2,10 +2,11 @@ The Poem
 Rainbow
        Colors
        ROYGBIV
-       Red  Orange Yellow Green Blue Indigi Violet
+       Red  Orange Yellow Green Blue Indigo Violet
 Sky
        Blue
        Clouds
        Sun
        Moon
        Star
+       Birds
